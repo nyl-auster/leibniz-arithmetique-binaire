@@ -32,7 +32,7 @@ On voit ici d’un coup d’oeil la raison *d’une propriété célèbre de la 
 | 1000 | 8 |
 |  100 | 4 |
 |    1 | 1 |
-|  **1101**| **7** |
+|  **1101**| **13** |
 
 Cette expression des Nombres étant établie, sert à faire très facilement toutes sortes d’opérations.
 
