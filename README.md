@@ -9,38 +9,7 @@ Mais au lieu de la progression de dix en dix, j’ai employé depuis plusieurs a
 
 ## Table des nombres
 
-|   |   |   |   |   |   | decimal |
-|---|---|---|---|---|---|---|
-|   |   |   |   |   | 0 | 0 |
-|   |   |   |   |   | 1 | 1 |
-|   |   |   |   | 1 | 0 | 2 |
-|   |   |   |   | 1 | 1 | 3 |
-|   |   |   | 1 | 0 | 0 | 4 |
-|   |   |   | 1 | 0 | 1 | 5 |
-|   |   |   | 1 | 1 | 0 | 6 |
-|   |   |   | 1 | 1 | 1 | 7 |
-|   |   | 1 | 0 | 0 | 0 | 8 |
-|   |   | 1 | 0 | 0 | 1 | 9 |
-|   |   | 1 | 0 | 1 | 0 | 10|
-|   |   | 1 | 0 | 1 | 1 | 11|
-|   |   | 1 | 1 | 0 | 0 | 12|
-|   |   | 1 | 1 | 0 | 1 | 13|
-|   |   | 1 | 1 | 1 | 0 | 14|
-|   |   | 1 | 1 | 1 | 1 | 15|
-|   | 1 | 0 | 0 | 0 | 0 | 16|
-|   | 1 | 0 | 0 | 0 | 1 | 17|
-|   | 1 | 0 | 0 | 1 | 0 | 18|
-|   | 1 | 0 | 0 | 1 | 1 | 19|
-|   | 1 | 0 | 1 | 0 | 0 | 20|
-|   | 1 | 0 | 1 | 0 | 1 | 21|
-|   | 1 | 0 | 1 | 1 | 0 | 22|
-|   | 1 | 0 | 1 | 1 | 1 | 23|
-|   | 1 | 1 | 0 | 0 | 0 | 24|
-|   | 1 | 1 | 0 | 0 | 1 | 25|
-|   | 1 | 1 | 0 | 1 | 0 | 26|
-|   | 1 | 1 | 0 | 1 | 1 | 27|
-|   | 1 | 1 | 1 | 0 | 0 | 28|
-|   | 1 | 1 | 1 | 0 | 1 | 29|
-|   | 1 | 1 | 1 | 1 | 0 | 30|
-|   | 1 | 1 | 1 | 1 | 1 | 31|
-| 1 | 0 | 0 | 0 | 0 | 0 | 32|
+![Table des nombres de Leibniz](images/table-des-nombres-leibniz.png)
+> source : https://tex.stackexchange.com/questions/233177/how-would-you-reproduce-the-leibniz-binary-table
+
+On voit ici d’un coup d’oeil la raison *d’une propriété célèbre de la progression géométrique double* en Nombres entiers, qui porte que si on n’a qu’un de ces nombres de chaque degré, on en peut composer tous les autres nombres entiers au-dessous du double du plus haut degré. Car ici, c’est comme si on disait par exemple, que 111 ou 7 est la somme de quatre, de deux et de un, et que 1101 ou 13 est la somme de huit, quatre et un. Cette propriété sert aux Essayeurs pour peser toutes sortes de masses avec peu de poids et pourrait servir dans les monnaies pour donner plusieurs valeurs avec peu de pièces.
