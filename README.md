@@ -17,7 +17,7 @@ On voit ici d’un coup d’oeil la raison *d’une propriété célèbre de la 
 > figure b - somme de 111 ou 7 :
 
 |  base 2 |  base 10  | 
-|---|---|
+|---:|---:|
 | 100 | 4 |
 |  10 | 2 |
 |   1 | 1 |
@@ -26,7 +26,7 @@ On voit ici d’un coup d’oeil la raison *d’une propriété célèbre de la 
 > figure c - somme de 1101 ou 13
 
 |  base 2 |  base 10  | 
-|---|---|
+|---:|---:|
 | 1000 | 8 |
 |  100 | 4 |
 |    1 | 1 |
