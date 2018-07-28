@@ -10,6 +10,29 @@ Mais au lieu de la progression de dix en dix, j’ai employé depuis plusieurs a
 ## Table des nombres
 
 ![Table des nombres de Leibniz](images/table-des-nombres-leibniz.png)
-> source : https://tex.stackexchange.com/questions/233177/how-would-you-reproduce-the-leibniz-binary-table
+> figure a - source : https://tex.stackexchange.com/questions/233177/how-would-you-reproduce-the-leibniz-binary-table
 
-On voit ici d’un coup d’oeil la raison *d’une propriété célèbre de la progression géométrique double* en Nombres entiers, qui porte que si on n’a qu’un de ces nombres de chaque degré, on en peut composer tous les autres nombres entiers au-dessous du double du plus haut degré. Car ici, c’est comme si on disait par exemple, que 111 ou 7 est la somme de quatre, de deux et de un, et que 1101 ou 13 est la somme de huit, quatre et un. Cette propriété sert aux Essayeurs pour peser toutes sortes de masses avec peu de poids et pourrait servir dans les monnaies pour donner plusieurs valeurs avec peu de pièces.
+On voit ici d’un coup d’oeil la raison *d’une propriété célèbre de la progression géométrique double* en Nombres entiers, qui porte que si on n’a qu’un de ces nombres de chaque degré, on en peut composer tous les autres nombres entiers au-dessous du double du plus haut degré. Car ici, c’est comme si on disait par exemple, que 111  ou 7(figure b) est la somme de quatre, de deux et de un, et que 1101 ou 13 (figure c) est la somme de huit, quatre et un. Cette propriété sert aux Essayeurs pour peser toutes sortes de masses avec peu de poids et pourrait servir dans les monnaies pour donner plusieurs valeurs avec peu de pièces.
+
+> figure b - somme de 111 ou 7 :
+
+|  base 2 |  base 10  | 
+|---|---|---|
+| 100 | 4 |
+|  10 | 2 |
+|   1 | 1 |
+|  **111**| **7** |
+
+> figure c - somme de 1101 ou 13
+
+|  base 2 |  base 10  | 
+|---|---|---|
+| 1000 | 8 |
+|  100 | 4 |
+|    1 | 1 |
+|  **1101**| **7** |
+
+Cette expression des Nombres étant établie, sert à faire très facilement toutes sortes d’opérations.
+
+![Leibniz opération mathématiques en binaire](images/leibniz-operations-binaires.png)
+
