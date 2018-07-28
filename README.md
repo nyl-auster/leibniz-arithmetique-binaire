@@ -1,6 +1,6 @@
 # Explication de l'arithmétique binaire
 
-## qui se sert des seuls caractères 0 et 1, avec des remarques sur son utilité et sur le sens qu'elle donnes des anciennes figures chinoises de Fohy*
+## qui se sert des seuls caractères 0 et 1, avec des remarques sur son utilité et sur le sens qu'elle donnes des anciennes figures chinoises de Fohy
  
 *Gottfried Wilhelm von Leibniz, 1703*
 
