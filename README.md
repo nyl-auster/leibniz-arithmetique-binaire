@@ -43,4 +43,4 @@ Mais au lieu de la progression de dix en dix, j’ai employé depuis plusieurs a
 |   | 1 | 1 | 1 | 0 | 1 | 29|
 |   | 1 | 1 | 1 | 1 | 0 | 30|
 |   | 1 | 1 | 1 | 1 | 1 | 31|
-| 1 | 0 | 0 | 0 | 0 | 1 | 32|
+| 1 | 0 | 0 | 0 | 0 | 0 | 32|
